@@ -1,1 +1,20 @@
 ## Part A
+
+### User Stories
+
+* As a student, I want to type out my notes so that my notes are orderly and easy to read
+
+    - As a student, I want to write my notes by hand so that I can write my notes in my own style
+    
+    - As a student, I want to insert illustrations in my notes so that my notes are comprehensive and have all the information I want in one place
+    
+    - As a student I want to use multiple colors in my notes so that my notes are organized and easy for me to read.
+    
+* As a student, I want to save my notes so that I can review the material later
+
+    - As a student, I want to be able to edit my notes so that I can make corrections as needed
+
+* As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused
+    - As a teacher, I want to view a particular student’s notes.
+    
+    - As a teacher, I want to check when a student last interacted with their notes.
