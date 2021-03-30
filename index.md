@@ -23,7 +23,7 @@
 
 * As a student, I want to type out my notes so that my notes are orderly and easy to read
 
-    - Justification: The basis of our solution is actually having an editor for students to interact with in order to record their notes. This can be done in a variety of ways, like through typing out or handwriting notes. In addition to this, there should be standard modern document editors
+    - Justification: The basis of our solution is actually having an editor for students to interact with in order to record their notes. This can be done in a variety of ways, like through typing out or handwriting notes. In addition to this, there should be standard modern document editors like a button that inserts images or shapes, as well as options for changing font colors and options like bold and underline.
 
 * As a student, I want to save my notes so that I can review the material later
 
