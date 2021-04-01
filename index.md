@@ -39,15 +39,45 @@
 
 ### Ideas for Alternative Designs
 
+* User Story 1: As a student, I want to type out my notes so that my notes are orderly and easy to read. Ideas:
 
+     - Keep with the zoom design and have tools and options available at the bottom
+     
+     - Use the design from word and google docs with all the options at the top of the page
+     
+     - Similar to the gmail format, have a small text window open in the bottom of a zoom meeting, with a small set of options at the bottom of the screen
+     
+     - For the inserting of illustrations/handwriting, we could use either a ‘tablet mode’ or a simple ‘pen tool’
+     
+     - Having the application be an addition to Zoom, or an independent service
+
+* User Story 2: As a student, I want to save my notes so that I can review the material later. Ideas:
+
+     - Saving locally, on the PC
+
+     - Saving in a cloud that is related to the class
+
+     - The menu to open saved documents could either be a tool at the bottom of a zoom call that opens a small list of options, or it could be an entirely different window as a home directory for all saved documents
+
+* User Story 3: As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused. Ideas:
+
+     - A list of students with a timer next to their name for the most recent edit.
+
+     - A separate gallery visible only to the teacher to view the content of  students’ notes. This could look similar to a Zoom gallery.
+
+     - When the teacher is given notice that a student hasn’t participated for a while, it could either come as a popup or develop in the form of the student’s name highlighting as red. A separate tab with a list of only deviating students.
 
 ### Wireframes
 
-![wireframe 1 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png)
+* User Story 1:
 
-![wireframe 1 2](/imgs/wireframe1/Main_Notepad_Open.png)
+     - Version 1:
 
-![wireframe 1 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
+     - ![wireframe 1 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png)
+
+     - ![wireframe 1 2](/imgs/wireframe1/Main_Notepad_Open.png)
+
+     - ![wireframe 1 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
