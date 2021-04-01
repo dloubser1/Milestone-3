@@ -43,7 +43,7 @@
 
 ### Wireframes
 
-<img src="\imgs\wireframe1\Clicked_Existing_Note_to_Edit.png">
+<img src="/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
