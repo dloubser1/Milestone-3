@@ -73,11 +73,11 @@
 
      - Version 1:
 
-     - ![wireframe 1 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png)
+     - [wireframe 1 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png)
 
-     - ![wireframe 1 2](/imgs/wireframe1/Main_Notepad_Open.png)
+     - [wireframe 1 2](/imgs/wireframe1/Main_Notepad_Open.png)
 
-     - ![wireframe 1 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
+     - [wireframe 1 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
