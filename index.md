@@ -43,7 +43,11 @@
 
 ### Wireframes
 
-<img src="/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png"><img src="/imgs/wireframe1/Main_Notepad_Open.png"><img src="/imgs/wireframe1/Main_Notepad_Open_View_Options.png">
+<img src="/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png">
+
+<img src="/imgs/wireframe1/Main_Notepad_Open.png">
+
+<img src="/imgs/wireframe1/Main_Notepad_Open_View_Options.png">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
