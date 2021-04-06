@@ -81,7 +81,21 @@
      
      - Links: [Wireframe 1 Page 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png), [Wireframe 1 Page 2](/imgs/wireframe1/Main_Notepad_Open.png), [Wireframe 1 Page 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
 
-            
+     - Version 2:
+     
+     - ![wireframe 2 1](/imgs/wireframe2/Wireframe_2_1.png)
+
+     - ![wireframe 2 2](/imgs/wireframe2/Wireframe_2_2.png)
+
+     - ![wireframe 2 3](/imgs/wireframe2/Wireframe_2_3.png)
+
+     - ![wireframe 2 4](/imgs/wireframe2/Wireframe_2_4.png)
+
+     - ![wireframe 2 5](/imgs/wireframe2/Wireframe_2_5.png)
+
+     - Links: [Wireframe 2 Page 1](/imgs/wireframe2/Wireframe_2_1.png), [Wireframe 2 Page 2](/imgs/wireframe2/Wireframe_2_2.png), [Wireframe 2 Page 3](/imgs/wireframe2/Wireframe_2_3.png), [Wireframe 2 Page 4](/imgs/wireframe2/Wireframe_2_4.png), [Wireframe 2 Page 5](/imgs/wireframe2/Wireframe_2_5.png)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
