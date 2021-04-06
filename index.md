@@ -95,6 +95,21 @@
 
      - Links: [Wireframe 2 Page 1](/imgs/wireframe2/Wireframe_2_1.png), [Wireframe 2 Page 2](/imgs/wireframe2/Wireframe_2_2.png), [Wireframe 2 Page 3](/imgs/wireframe2/Wireframe_2_3.png), [Wireframe 2 Page 4](/imgs/wireframe2/Wireframe_2_4.png), [Wireframe 2 Page 5](/imgs/wireframe2/Wireframe_2_5.png)
 
+* User Story 2:
+     
+     - ![wireframe 3 1](/imgs/wireframe3/Wireframe_3_1.png)
+
+     - ![wireframe 3 2](/imgs/wireframe3/Wireframe_3_2.png)
+
+     - ![wireframe 3 3](/imgs/wireframe3/Wireframe_3_3.png)
+
+     - ![wireframe 3 4](/imgs/wireframe3/Wireframe_3_4.png)
+
+     - ![wireframe 3 5](/imgs/wireframe3/Wireframe_3_5.png)
+
+     - Links: [Wireframe 3 Page 1](/imgs/wireframe3/Wireframe_3_1.png), [Wireframe 3 Page 2](/imgs/wireframe3/Wireframe_3_2.png), [Wireframe 3 Page 3](/imgs/wireframe3/Wireframe_3_3.png), [Wireframe 3 Page 4](/imgs/wireframe2/Wireframe_3_4.png), [Wireframe 3 Page 5](/imgs/wireframe2/Wireframe_3_5.png)
+
+* User Story 3: 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
