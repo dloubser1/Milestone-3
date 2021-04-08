@@ -123,7 +123,7 @@
 
      - ![wireframe 4 6](/imgs/wireframe4/Wireframe_4_6.png)
      
-     - Links: [Default Teacher View](/imgs/wireframe4/Wireframe_4_1.png), [Teacher View of Students Ver. 1](/imgs/wireframe4/Wireframe_4_2.png), [Teacher View of Students Ver. 2](/imgs/wireframe4/Wireframe_4_3.png), [Idle Notification Ver. 1](/imgs/wireframe4/Wireframe_4_4.png), [Idle Notification Ver. 2](/imgs/wireframe4/Wireframe_4_5.png), Idle Notification Ver. 3](/imgs/wireframe4/Wireframe_4_6.png)
+     - Links: [Default Teacher View](/imgs/wireframe4/Wireframe_4_1.png), [Teacher View of Students Ver. 1](/imgs/wireframe4/Wireframe_4_2.png), [Teacher View of Students Ver. 2](/imgs/wireframe4/Wireframe_4_3.png), [Idle Notification Ver. 1](/imgs/wireframe4/Wireframe_4_4.png), [Idle Notification Ver. 2](/imgs/wireframe4/Wireframe_4_5.png), [Idle Notification Ver. 3](/imgs/wireframe4/Wireframe_4_6.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
