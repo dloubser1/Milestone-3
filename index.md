@@ -107,10 +107,23 @@
 
      - ![wireframe 3 5](/imgs/wireframe3/Wireframe_3_5.png)
 
-     - Links: [Wireframe 3 Page 1](/imgs/wireframe3/Wireframe_3_1.png), [Wireframe 3 Page 2](/imgs/wireframe3/Wireframe_3_2.png), [Wireframe 3 Page 3](/imgs/wireframe3/Wireframe_3_3.png), [Wireframe 3 Page 4](/imgs/wireframe2/Wireframe_3_4.png), [Wireframe 3 Page 5](/imgs/wireframe2/Wireframe_3_5.png)
+     - Links: [Wireframe 3 Page 1](/imgs/wireframe3/Wireframe_3_1.png), [Wireframe 3 Page 2](/imgs/wireframe3/Wireframe_3_2.png), [Wireframe 3 Page 3](/imgs/wireframe3/Wireframe_3_3.png), [Wireframe 3 Page 4](/imgs/wireframe3/Wireframe_3_4.png), [Wireframe 3 Page 5](/imgs/wireframe3/Wireframe_3_5.png)
 
 * User Story 3: 
 
+     - ![wireframe 4 1](/imgs/wireframe4/Wireframe_4_1.png)
+
+     - ![wireframe 4 2](/imgs/wireframe4/Wireframe_4_2.png)
+
+     - ![wireframe 4 3](/imgs/wireframe4/Wireframe_4_3.png)
+
+     - ![wireframe 4 4](/imgs/wireframe4/Wireframe_4_4.png)
+
+     - ![wireframe 4 5](/imgs/wireframe4/Wireframe_4_5.png)
+
+     - ![wireframe 4 6](/imgs/wireframe4/Wireframe_4_6.png)
+     
+     - Links: [Wireframe 4 Page 1](/imgs/wireframe4/Wireframe_4_1.png), [Wireframe 4 Page 2](/imgs/wireframe4/Wireframe_4_2.png), [Wireframe 4 Page 3](/imgs/wireframe4/Wireframe_4_3.png), [Wireframe 4 Page 4](/imgs/wireframe4/Wireframe_4_4.png), [Wireframe 4 Page 5](/imgs/wireframe4/Wireframe_4_5.png), [Wireframe 4 6](/imgs/wireframe4/Wireframe_4_6.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
