@@ -136,3 +136,5 @@
 ## Part D
 
 ### Summary Video
+
+{% include youtubePlayer.html id="tQbZGU-d-wI" %}
