@@ -78,6 +78,8 @@
      - ![wireframe 1 2](/imgs/wireframe1/Main_Notepad_Open.png)
 
      - ![wireframe 1 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
+
+     - Justification: Our first design we came up with, it has a split screen view with different options on top. Passed on this version b/c we felt the notepad took up way too much space, and that the lecture itself would be hard to view with this sort of design.
      
      - Links: [Wireframe 1 Page 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png), [Wireframe 1 Page 2](/imgs/wireframe1/Main_Notepad_Open.png), [Wireframe 1 Page 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
 
@@ -92,6 +94,8 @@
      - ![wireframe 2 4](/imgs/wireframe2/Wireframe_2_4.png)
 
      - ![wireframe 2 5](/imgs/wireframe2/Wireframe_2_5.png)
+
+     - Justification: Notepad implemented as a pop-up that can be simultaneously viewed with video, without being intrusive. It supports text/pen input. It has color-coding, text resizing, and bullet-point listing.
 
      - Links: [Wireframe 2 Page 1](/imgs/wireframe2/Wireframe_2_1.png), [Wireframe 2 Page 2](/imgs/wireframe2/Wireframe_2_2.png), [Wireframe 2 Page 3](/imgs/wireframe2/Wireframe_2_3.png), [Wireframe 2 Page 4](/imgs/wireframe2/Wireframe_2_4.png), [Wireframe 2 Page 5](/imgs/wireframe2/Wireframe_2_5.png)
 
@@ -113,15 +117,21 @@
 
      - ![wireframe 4 1](/imgs/wireframe4/Wireframe_4_1.png)
 
+     - Justification: We designed a timer that records a student's last edit and a button to switch from viewing students' videos to notes, so teachers can easily see who is engaged and taking notes.
+
      - ![wireframe 4 2](/imgs/wireframe4/Wireframe_4_2.png)
 
      - ![wireframe 4 3](/imgs/wireframe4/Wireframe_4_3.png)
+
+     - Justification: The first wireframe on the slide was designed to look similar to a Zoom gallery where the teacher can view notes and timers. The second wireframe was created to be more compact and a simple list of name and timers was designed for this reason.
 
      - ![wireframe 4 4](/imgs/wireframe4/Wireframe_4_4.png)
 
      - ![wireframe 4 5](/imgs/wireframe4/Wireframe_4_5.png)
 
      - ![wireframe 4 6](/imgs/wireframe4/Wireframe_4_6.png)
+
+     - Justification: These wireframes illustrate what idle notifications could look like. The first one was made to resemble a Zoom popup to notify the teacher that students had been idle for some time. The next two wireframes show what the wireframes on the previous slide would look like when students have not been editing their notes. We choose to highlight the names in red because that is a very eye catching color. 
      
      - Links: [Default Teacher View](/imgs/wireframe4/Wireframe_4_1.png), [Teacher View of Students Ver. 1](/imgs/wireframe4/Wireframe_4_2.png), [Teacher View of Students Ver. 2](/imgs/wireframe4/Wireframe_4_3.png), [Idle Notification Ver. 1](/imgs/wireframe4/Wireframe_4_4.png), [Idle Notification Ver. 2](/imgs/wireframe4/Wireframe_4_5.png), [Idle Notification Ver. 3](/imgs/wireframe4/Wireframe_4_6.png)
 
@@ -130,6 +140,24 @@
 ## Part C
 
 ### Mockups
+
+* User Story 1 and 2
+
+     - ![mockup 1 1](/imgs/mockup1/Mockup_1_1.png)
+
+     - Justification: Notes and New Note icon placed in the bottom right hand corner to balance out Zoom button placement, with the notes first appearing above those notes.
+
+     - ![mockup 1 2](/imgs/mockup1/Mockup_1_2.png)
+
+     - ![mockup 1 3](/imgs/mockup1/Mockup_1_3.png)
+
+     - Justification: The team decided that a wide variety of editing options should be available based off the user stories we created, so adding options to change the color of the pen and the text as well as adding highlights and other features to vary the look of both the pen and text tool were necessary. To indicate whether the user was on text or pen mode a white highlight was added behind the active tool.
+     
+     - ![mockup 1 4](/imgs/mockup1/Mockup_1_4.png)
+
+     - Justification: We felt that keeping a view of the Zoom meeting while accessing the notes options was important, so the menu was chosen to be small and off to the side. This option was the best design due to the minimal intrusion on the traditional Zoom app, along with the matching system to what Zoom already uses.
+
+     - Links: [Mockup 1 Page 1](/imgs/mockup1/Mockup_1_1.png), [Mockup 1 Page 2](/imgs/mockup1/Mockup_1_2.png), [Mockup 1 Page 3](/imgs/mockup1/Mockup_1_3.png), [Mockup 1 Page 4](/imgs/mockup1/Mockup_1_4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
