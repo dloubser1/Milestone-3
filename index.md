@@ -39,7 +39,7 @@
 
 ### Ideas for Alternative Designs
 
-* User Story 1: As a student, I want to type out my notes so that my notes are orderly and easy to read. Ideas:
+* **User Story 1**: As a student, I want to type out my notes so that my notes are orderly and easy to read. Ideas:
 
      - Keep with the zoom design and have tools and options available at the bottom
      
@@ -51,7 +51,7 @@
      
      - Having the application be an addition to Zoom, or an independent service
 
-* User Story 2: As a student, I want to save my notes so that I can review the material later. Ideas:
+* **User Story 2**: As a student, I want to save my notes so that I can review the material later. Ideas:
 
      - Saving locally, on the PC
 
@@ -59,7 +59,7 @@
 
      - The menu to open saved documents could either be a tool at the bottom of a zoom call that opens a small list of options, or it could be an entirely different window as a home directory for all saved documents
 
-* User Story 3: As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused. Ideas:
+* **User Story 3**: As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused. Ideas:
 
      - A list of students with a timer next to their name for the most recent edit.
 
@@ -69,9 +69,9 @@
 
 ### Wireframes
 
-* User Story 1:
+* **User Story 1**:
 
-     - Version 1:
+     - **Version 1**:
 
      - ![wireframe 1 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png)
 
@@ -83,7 +83,7 @@
      
      - Links: [Wireframe 1 Page 1](/imgs/wireframe1/Clicked_Existing_Note_to_Edit.png), [Wireframe 1 Page 2](/imgs/wireframe1/Main_Notepad_Open.png), [Wireframe 1 Page 3](/imgs/wireframe1/Main_Notepad_Open_View_Options.png)
 
-     - Version 2:
+     - **Version 2**:
      
      - ![wireframe 2 1](/imgs/wireframe2/Wireframe_2_1.png)
 
@@ -99,9 +99,9 @@
 
      - Links: [Wireframe 2 Page 1](/imgs/wireframe2/Wireframe_2_1.png), [Wireframe 2 Page 2](/imgs/wireframe2/Wireframe_2_2.png), [Wireframe 2 Page 3](/imgs/wireframe2/Wireframe_2_3.png), [Wireframe 2 Page 4](/imgs/wireframe2/Wireframe_2_4.png), [Wireframe 2 Page 5](/imgs/wireframe2/Wireframe_2_5.png)
 
-* User Story 2:
+* **User Story 2**:
 
-     - Version 1:
+     - **Version 1**:
 
      - ![wireframe 3 1](/imgs/wireframe3/Wireframe_3_4.png)
 
@@ -111,7 +111,7 @@
 
      - Links: [Wireframe 3 Page 1](/imgs/wireframe3/Wireframe_3_4.png), [Wireframe 3 Page 2](/imgs/wireframe3/Wireframe_3_5.png)
 
-     - Version 2:
+     - **Version 2**:
 
      - ![wireframe 4 1](/imgs/wireframe3/Wireframe_3_1.png)
 
@@ -125,9 +125,17 @@
 
      - Links: [Wireframe 4 Page 1](/imgs/wireframe3/Wireframe_3_1.png), [Wireframe 4 Page 2](/imgs/wireframe3/Wireframe_3_2.png), [Wireframe 4 Page 3](/imgs/wireframe3/Wireframe_3_3.png)
 
-     - Version 3: 
+     - **Version 3**: 
 
-* User Story 3: 
+     - ![wireframe 5 1](/imgs/wireframe3/Wireframe_3_6.png)
+     
+     - ![wireframe 5 2](/imgs/wireframe3/Wireframe_3_7.png)
+
+     - Justification: This was the final alternative that we came up with, which is a variation on the second idea we had. We wanted separate options for Opening existing notes and creating new notes, so separate buttons that are both accessible was a reasonable choice. The save function is still within the editor, and not readily available without notes pulled up.
+
+     - Links: [Wireframe 5 Page 1](/imgs/wireframe3/Wireframe_3_6.png), [Wireframe 5 Page 2](/imgs/wireframe3/Wireframe_3_7.png)
+
+* **User Story 3**: 
 
      - ![wireframe 6 1](/imgs/wireframe4/Wireframe_4_1.png)
 
@@ -155,7 +163,7 @@
 
 ### Mockups
 
-* User Story 1 and 2
+* **User Story 1 and 2**:
 
      - ![mockup 1 1](/imgs/mockup1/Mockup_1_1.png)
 
