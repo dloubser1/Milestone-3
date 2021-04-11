@@ -23,15 +23,15 @@
 
 * As a student, I want to type out my notes so that my notes are orderly and easy to read
 
-    - Justification: The basis of our solution is actually having an editor for students to interact with in order to record their notes. This can be done in a variety of ways, like through typing out or handwriting notes. In addition to this, there should be standard modern document editors like a button that inserts images or shapes, as well as options for changing font colors and options like bold and underline.
+    - Justification: The basis of our solution is actually having an editor for students to interact with in order to record their notes. This can be done in a variety of ways, like through typing out or handwriting notes, and it has been found that being able to have different types of notetaking available is helpful for learning (Holland). In addition to this, there should be standard modern document editors like a button that inserts images or shapes, as well as options for changing font colors and options like bold and underline.
 
 * As a student, I want to save my notes so that I can review the material later
 
-    - Justification: A significant portion of our proposal involves the use of our program as a notes program. Without the functionality of saving and accessing notes documents within the app, users would have to go through extra steps to download their notes when they finish and the solution becomes more complicated than it needs to be.
+    - Justification: A significant portion of our proposal involves the use of our program as a notes program. Without the functionality of saving and accessing notes documents within the app, users would have to go through extra steps to download their notes when they finish and the solution becomes more complicated than it needs to be. Also, in the same vein of the importance of taking the notes, having the ability to save notes is also just as important (Holland).
 
 * As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused
 
-    - Justification: Part of our proposed solution was to provide teachers with the functionality to keep track of their students. This user story covers all the functionality a teacher needs and therefore is very relevant.
+    - Justification: Part of our proposed solution was to provide teachers with the functionality to keep track of their students. This user story covers all the functionality a teacher needs and therefore is very relevant. There is also precedent, which can be found through sites online, of teachers having a problem with participation and needing solutions, so putting one within the notes functionality is very relevant (Minero).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -204,3 +204,10 @@
 ### Summary Video
 
 {% include youtubePlayer.html id="tQbZGU-d-wI" %}
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Citations
+
+* Holland, Beth. “Note Taking With Technology.” Edutopia, George Lucas Educational Foundation, 4 Aug. 2017, www.edutopia.org/blog/the-4ss-of-note-taking-beth-holland. 
+* Minero, Emelina. “8 Strategies to Improve Participation in Your Virtual Classroom.” Edutopia, George Lucas Educational Foundation, 21 Aug. 2020, www.edutopia.org/article/8-strategies-improve-participation-your-virtual-classroom. 
