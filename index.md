@@ -181,6 +181,22 @@
 
      - Links: [Mockup 1 Page 1](/imgs/mockup1/Mockup_1_1.png), [Mockup 1 Page 2](/imgs/mockup1/Mockup_1_2.png), [Mockup 1 Page 3](/imgs/mockup1/Mockup_1_3.png), [Mockup 1 Page 4](/imgs/mockup1/Mockup_1_4.png)
 
+* **User Story 3**:
+
+     - ![mockup 2 1](/imgs/mockup2/Mockup_2_1.png)
+
+     - ![mockup 2 2](/imgs/mockup2/Mockup_2_2.png)
+
+     - Justification: The more compact, list design was decided as the best because it took up less room than the gallery and it allowed for the teacher to still clearly see their video and controls. On the second mockup view, we decided that the "Notes" button would bring up a screenshot of a student's notes, instead of a live video. 
+
+     - ![mockup 2 3](/imgs/mockup2/Mockup_2_3.png)
+
+     - ![mockup 2 4](/imgs/mockup2/Mockup_2_4.png)
+
+     - Justification: The idle notification popup is only visible to teachers because it would cause a bit of a distraction to students. The red coloring of students' names was a carry over from the wireframes and we stuck with it because red text is still eye catching, yet not too distracting to teachers during a lecture.
+
+     - Links: [Mockup 2 Page 1](/imgs/mockup2/Mockup_2_1.png), [Mockup 2 Page 2](/imgs/mockup2/Mockup_2_2.png), [Mockup 2 Page 3](/imgs/mockup2/Mockup_2_3.png), [Mockup 2 Page 4](/imgs/mockup2/Mockup_2_4.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Part D
