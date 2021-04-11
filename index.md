@@ -100,36 +100,50 @@
      - Links: [Wireframe 2 Page 1](/imgs/wireframe2/Wireframe_2_1.png), [Wireframe 2 Page 2](/imgs/wireframe2/Wireframe_2_2.png), [Wireframe 2 Page 3](/imgs/wireframe2/Wireframe_2_3.png), [Wireframe 2 Page 4](/imgs/wireframe2/Wireframe_2_4.png), [Wireframe 2 Page 5](/imgs/wireframe2/Wireframe_2_5.png)
 
 * User Story 2:
-     
-     - ![wireframe 3 1](/imgs/wireframe3/Wireframe_3_1.png)
 
-     - ![wireframe 3 2](/imgs/wireframe3/Wireframe_3_2.png)
+     - Version 1:
 
-     - ![wireframe 3 3](/imgs/wireframe3/Wireframe_3_3.png)
+     - ![wireframe 3 1](/imgs/wireframe3/Wireframe_3_4.png)
 
-     - ![wireframe 3 4](/imgs/wireframe3/Wireframe_3_4.png)
+     - ![wireframe 3 2](/imgs/wireframe3/Wireframe_3_5.png)
 
-     - ![wireframe 3 5](/imgs/wireframe3/Wireframe_3_5.png)
+     - Justification: We wanted the design to not be overly intrusive on the application, so we thought of imitating the “File” dropdown menu that appears in document editors like Google docs and Word, with options contained in the dropdown.
 
-     - Links: [Wireframe 3 Page 1](/imgs/wireframe3/Wireframe_3_1.png), [Wireframe 3 Page 2](/imgs/wireframe3/Wireframe_3_2.png), [Wireframe 3 Page 3](/imgs/wireframe3/Wireframe_3_3.png), [Wireframe 3 Page 4](/imgs/wireframe3/Wireframe_3_4.png), [Wireframe 3 Page 5](/imgs/wireframe3/Wireframe_3_5.png)
+     - Links: [Wireframe 3 Page 1](/imgs/wireframe3/Wireframe_3_4.png), [Wireframe 3 Page 2](/imgs/wireframe3/Wireframe_3_5.png)
+
+     - Version 2:
+
+     - ![wireframe 4 1](/imgs/wireframe3/Wireframe_3_1.png)
+
+     - ![wireframe 4 2](/imgs/wireframe3/Wireframe_3_2.png)
+
+     - Justification: We decided that there needed to be a consistent theme if the application was to be an add-on to Zoom, so having the button be an addition to the standard Zoom toolset was a key part this wireframe. It attempts to be in-line with the existing options on the various zooms apps. This is also the point that we decided that the saving feature should be within the editor itself, and not a button external to that, since it would be confusing. 
+
+     - ![wireframe 4 3](/imgs/wireframe3/Wireframe_3_3.png)
+
+     - Justification: This was an alternate design for the Zoom add-on that opened a fullscreen view of notes, with a deeper look at the individual notes, like a displayed preview. This mimics some applications that have entire screens dedicated to opening previous notes, but doesn’t fit well in the Zoom format overall.
+
+     - Links: [Wireframe 4 Page 1](/imgs/wireframe3/Wireframe_3_1.png), [Wireframe 4 Page 2](/imgs/wireframe3/Wireframe_3_2.png), [Wireframe 4 Page 3](/imgs/wireframe3/Wireframe_3_3.png)
+
+     - Version 3: 
 
 * User Story 3: 
 
-     - ![wireframe 4 1](/imgs/wireframe4/Wireframe_4_1.png)
+     - ![wireframe 6 1](/imgs/wireframe4/Wireframe_4_1.png)
 
      - Justification: We designed a timer that records a student's last edit and a button to switch from viewing students' videos to notes, so teachers can easily see who is engaged and taking notes.
 
-     - ![wireframe 4 2](/imgs/wireframe4/Wireframe_4_2.png)
+     - ![wireframe 6 2](/imgs/wireframe4/Wireframe_4_2.png)
 
-     - ![wireframe 4 3](/imgs/wireframe4/Wireframe_4_3.png)
+     - ![wireframe 6 3](/imgs/wireframe4/Wireframe_4_3.png)
 
      - Justification: The first wireframe on the slide was designed to look similar to a Zoom gallery where the teacher can view notes and timers. The second wireframe was created to be more compact and a simple list of name and timers was designed for this reason.
 
-     - ![wireframe 4 4](/imgs/wireframe4/Wireframe_4_4.png)
+     - ![wireframe 6 4](/imgs/wireframe4/Wireframe_4_4.png)
 
-     - ![wireframe 4 5](/imgs/wireframe4/Wireframe_4_5.png)
+     - ![wireframe 6 5](/imgs/wireframe4/Wireframe_4_5.png)
 
-     - ![wireframe 4 6](/imgs/wireframe4/Wireframe_4_6.png)
+     - ![wireframe 6 6](/imgs/wireframe4/Wireframe_4_6.png)
 
      - Justification: These wireframes illustrate what idle notifications could look like. The first one was made to resemble a Zoom popup to notify the teacher that students had been idle for some time. The next two wireframes show what the wireframes on the previous slide would look like when students have not been editing their notes. We choose to highlight the names in red because that is a very eye catching color. 
      
